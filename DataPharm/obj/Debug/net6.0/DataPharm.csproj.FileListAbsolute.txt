@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Project\Pharmacy\DataPharm\obj\Debug\net6.0\DataPharm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Pharmacy\DataPharm\obj\Debug\net6.0\DataPharm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project\Pharmacy\DataPharm\obj\Debug\net6.0\DataPharm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\Pharmacy\DataPharm\obj\Debug\net6.0\DataPharm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\Pharmacy\DataPharm\obj\Debug\net6.0\DataPharm.csproj.CoreCompileInputs.cache

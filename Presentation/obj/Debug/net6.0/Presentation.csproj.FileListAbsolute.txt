@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Project\Pharmacy\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Pharmacy\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project\Pharmacy\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\Pharmacy\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\Pharmacy\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
